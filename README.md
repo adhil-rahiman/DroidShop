@@ -4,7 +4,10 @@
 
 **DroidShop** is a ecommerce 🖊️ application 📱 built to demonstrate a use of *Modern Android development*, *Clean Architecture*, *MVVM*. Dedicated to all Android Developers with ❤️. 
 
-## Demo
+
+## Demo 
+[![DroidShop MVP Demo App](https://img.shields.io/badge/demo%20app-1.0-blue?style=for-the-badge&logo=android&logoColor=logoColor&color=7885FF)](https://github.com/adhil-rahiman/DroidShop/blob/main/demo/droidshop-app-debug.apk)
+
 https://github.com/adhil-rahiman/DroidShop/assets/51693827/bcf472af-2ad3-47c4-ad32-ebac8451d2d0
 
 
