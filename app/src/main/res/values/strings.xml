@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DroidShop</string>
+    <string name="decathlon">Decathlon</string>
+    <string name="price_template">₹ %1$s</string>
+    <string name="search_products">Search Products...</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="price_low_to_high">Price - Low to High</string>
+    <string name="price_high_to_low">Price - High to Low</string>
+    <string name="name">Name</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="apply">Apply</string>
+    <string name="sort_by">Sort By</string>
+    <string name="loading_products">Loading Products</string>
+    <string name="key_default">Default</string>
+    <string name="loading">Loading</string>
+    <string name="brands">Brands</string>
+</resources>
